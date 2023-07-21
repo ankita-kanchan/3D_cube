@@ -50,6 +50,12 @@
       "languageVersion": "3.0"
     },
     {
+      "name": "flutter_cube",
+      "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dev/flutter_cube-0.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "flutter_lints",
       "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dev/flutter_lints-2.0.2",
       "packageUri": "lib/",
@@ -58,6 +64,12 @@
     {
       "name": "flutter_test",
       "rootUri": "file:///Users/apple/Developer/flutter/packages/flutter_test",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///Users/apple/Developer/flutter/packages/flutter_web_plugins",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -94,6 +106,24 @@
     {
       "name": "path",
       "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dev/path-1.8.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "plugin_platform_interface",
+      "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "sensors_plus",
+      "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dev/sensors_plus-3.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "sensors_plus_platform_interface",
+      "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dev/sensors_plus_platform_interface-1.1.3",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -152,7 +182,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2023-07-09T07:00:40.358907Z",
+  "generated": "2023-07-09T10:04:29.622832Z",
   "generator": "pub",
   "generatorVersion": "3.0.5"
 }

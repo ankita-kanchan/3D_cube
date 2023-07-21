@@ -1,0 +1,4 @@
+#Fri Jul 21 22:36:08 IST 2023
+base.0=/Users/apple/Flutter Projects/three_d_cube/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
